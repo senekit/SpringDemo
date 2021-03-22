@@ -1,6 +1,7 @@
 package org.csu.domain;
 
 public class Account {
+
     private int age;
     private String id;
     private String password;
